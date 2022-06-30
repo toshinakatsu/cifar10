@@ -10,6 +10,9 @@
 ### ２. x_train、y_train における画像とラベルの対応
 <img src="relation_img_label.png" width="auto" height="auto">
 
+### ３. x_train、y_train における画像とラベルの対応
+<img src="relation_img_label.png" width="auto" height="auto">
+
 
 
 ## 開発環境
