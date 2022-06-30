@@ -4,7 +4,11 @@
 <p>&nbsp;</p>
 
 ## 画像資料
+### １. ラベルに対応する画像を複数表示
 <img src="cifar10_show.png" width="600" height="auto">
+
+### ２. x_train、y_train における画像とラベルの対応
+<img src="relation_img_label.png" width="auto" height="auto">
 <p>&nbsp;</p>
 
 
