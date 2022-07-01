@@ -19,7 +19,7 @@ plt.subplots()
 を用いて、画像表示のコードを、行列のように分かりやすく簡潔に記述。
 
 ## 画像資料
-### １. ラベルに対応する画像を複数表示
+### １. 各ラベルに対応する画像を複数表示
 <img src="images/cifar10_show.png" width="600" height="auto">
 
 ### ２. x_train、y_train における画像とラベルの対応
